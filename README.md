@@ -1,2 +1,4 @@
-# utility_functions
-Project containing utility functions leveraged in various Github projects 
+# Utility Functions
+
+## Purpose
+This project contains utility functions I leverage across various Github projects. 
