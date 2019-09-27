@@ -1,3 +1,10 @@
+__author__ = “Connor Landy”
+
+""" Helper functions leveraged in the process of cleaning, manipulating, 
+    and generating data for the following project: 
+    https://www.connorlandy.com/projects/my-amazing-race
+"""
+
 from pyspark.sql import functions as F
 
 def parse_and_clean_swarm_checkins(swarms_output):
